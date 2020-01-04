@@ -13,4 +13,4 @@ It's a cross platform game engine written in C++ (runtime), C# (Unity Scripting 
 
 ## Instructions for game Download
 
-Executable game file (for windows only) is available in the builds folder. Game Instructions are available in the Game.
+Executable game file (for windows only) is available in the builds folder. Dowload the builds folder and run the game executable file.
